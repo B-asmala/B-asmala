@@ -3,7 +3,6 @@ I'm Basmala,<br>a competitive programmer 🥷<br>& a CSE student 💻
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📈 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=B-asmala&theme=dracula&hide_border=true)
 <!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=B-asmala&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=B-asmala&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>-->
