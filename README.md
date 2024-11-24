@@ -12,6 +12,6 @@ I'm Basmala,<br>a competitive programmer 🥷<br>& a CSE student 💻
 ![](https://github-contributor-stats.vercel.app/api?username=B-asmala&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basmala-abdelhakim-714b84222/) 
-
+[![Twitter](https://img.shields.io/badge/-%23000000.svg?logo=x&logoColor=white)]([https://twitter.com/yourusername](https://x.com/b_m_z__?t=5owmJbgpVdd710KWxPojtw&s=09))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
