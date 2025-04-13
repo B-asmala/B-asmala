@@ -13,6 +13,6 @@ I'm Basmala,<br>a competitive programmer 🥷<br>& a CSE student 💻
 -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basmala-abdelhakim-714b84222/) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/omaz)
-[![x](https://img.shields.io/badge/-%23000000.svg?logo=x&logoColor=white)](https://x.com/b_m_z__?t=5owmJbgpVdd710KWxPojtw&s=09)
+<!-- [![x](https://img.shields.io/badge/-%23000000.svg?logo=x&logoColor=white)](https://x.com/?t=5owmJbgpVdd710KWxPojtw&s=09)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
